@@ -1,0 +1,7 @@
+{
+  "name": "Hinglish AI Voice Generator",
+  "description": "A powerful text-to-speech generator that converts Hindi, English, and Hinglish text into natural-sounding male speech. Customize the voice's tone, style, and context, then preview and download the audio.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
